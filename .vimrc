@@ -9,7 +9,11 @@ execute pathogen#helptags()
 syntax enable
 filetype plugin indent on
 
-colorscheme slate
+colorscheme lucius
+set t_Co=256
+set termguicolors
+set background=dark
+
 set laststatus=2
 set ruler
 set showmode

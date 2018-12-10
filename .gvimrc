@@ -1,6 +1,9 @@
 scriptencoding utf-8
 
-colorscheme slate
+set background=dark
+colorscheme lucius
+
+set guifont=Ricty_Diminished_for_Powerline:h14
 
 nnoremap <Leader>eg :e ~/dotfiles/.gvimrc<CR>
 

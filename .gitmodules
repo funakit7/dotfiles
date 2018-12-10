@@ -10,3 +10,6 @@
 [submodule ".vim/bundle/molokai"]
 	path = .vim/bundle/molokai
 	url = https://github.com/tomasr/molokai.git
+[submodule ".vim/bundle/vimdoc-ja"]
+	path = .vim/bundle/vimdoc-ja
+	url = https://github.com/vim-jp/vimdoc-ja.git
